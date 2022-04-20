@@ -15,26 +15,23 @@ Univesidad de Granada
 
 Desde 1996, la cantidad de ropa comprada en la Unión Europea por persona ha aumentado en un 40% y se calcula que los europeos usan casi 26 kilos de textiles y descartan unos 11 kilos de ellos cada año. La ropa usada puede ser exportada fuera de la UE, pero en su mayoría –el 87%– es incinerada o depositada en vertederos. A nivel mundial, menos del 1% de la ropa se recicla como nuevas prendas de vestir. 
 
-**Slow fashion para la supervivencia** nace de la necesidad de concienciar a la ciudadanía española sobre estas cuestiones de forma clara, directa y concisa. Por ello, en la gamificación se introducen párrafos informativos, infografías interactivas, vídeos y audios que permiten al lector comprender el alcance real de este problema, así como conocer posibles soluciones y formas alternativas de consumo. 
+**Slow fashion para la supervivencia** nace de la necesidad de concienciar a la ciudadanía española sobre estas cuestiones de forma directa,  concisa e interactiva. Por ello, en la gamificación se introducen párrafos informativos, infografías interactivas, vídeos y audios que permiten al lector comprender el alcance real de este problema, así como conocer posibles soluciones y formas alternativas de consumo. 
 
 **logotipo** :  
 <img width="170" alt="Captura de pantalla 2022-04-20 a las 16 36 59" src="https://user-images.githubusercontent.com/103131235/164255656-1e5eeb2f-99b9-4e1e-93f5-b894739c3f67.png">
 
-**Slogan** : ¿Cuánto le cuestan nuestros armarios al medio ambiente? / ¿Cuál es el verdadero precio de nuestra ropa?
+**Slogan** : ¿Cual es el precio de nuestra ropa para el medio ambiente? / ¿Cuánto cuestan nuestros armarios para el medio ambiente?
 
-**Hashtag** : #SlowFashionParaLaSupervivencia
+**Hashtag** : #SlowFashionParaLaSupervivencia / #There'sNoPlanetB
 
 **Licencia** : CC BY-NC
 
 **Fecha** : 2022
 
 **Medios** (donde se tiene presencia): 
-
-
 *  :octocat: (github url) 
 * La app en la que se desarrollará el proyecto en formato móvil.
 * Redes sociales como Twitter e Instagram –que servirán para captar audiencia y dar a conocer el proyecto–. 
-* Página de Wix. 
 
 --- 
 
@@ -63,14 +60,16 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 **Estilo de narración** : La narración será directa y concisa, tratando de captar la atención de la audiencia con preguntas que interpelen al usuario. 
 
 ### Etapa 2: Prototipar / productos 
-En la primera fase de prototipado se ha escogido la aplicación ProtoPie para desarrollar un prototipo de la gamificación que vertebra el proyecto **Slow Fashion para la supervivencia**.  El objetivo a medio/largo plazo sería poder ampliar la gamificación –por ejemplo, con la introducción de una pestaña que permita al usuario escanear las etiquetas de sus prendas para averiguar cuál es el grado de sostenibilidad del producto que ha consumido o piensa consumir– y la creación de una página web en la que se amplíe la información a través de vídeos, podcast, infografías interactivas y texto, algo que permitiría no solo profundizar en la intención del proyecto sino también alcanzar audiencias con otros hábitos de consumo.
+En la primera fase de prototipado se ha escogido la aplicación ProtoPie para desarrollar un prototipo de la gamificación que vertebra el proyecto **Slow Fashion para la supervivencia**. El objetivo a medio/largo plazo sería poder ampliar la gamificación –por ejemplo, con la introducción de una pestaña que permita al usuario escanear las etiquetas de sus prendas para averiguar cuál es el grado de sostenibilidad del producto que ha consumido o piensa consumir– y la creación de una página web en la que se amplíe la información a través de vídeos, podcast, infografías interactivas y texto, algo que permitiría no solo profundizar en la intención del proyecto sino también alcanzar audiencias con otros hábitos de consumo.
 
 Asimismo, se crearía cuentas oficiales en redes sociales como Twitter e Instagram para fidelizar la audiencia obtenida, dar a conocer el proyecto y alcanzar nuevos usuarios. 
 
 Finalmente, se conseguiría la integración de los distintos medios a través de la introducción de enlaces en la propia gamificación que guíen al usuario a explorar las redes sociales o la página web. 
 
+Para visualizar el prototipo de Slow Fashion para la supervivencia haz clic aquí: <https://cloud.protopie.io/p/ad2de8a4d7>
+
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada:
-Para este proyecto se ha escogido un diseño sencillo realizadoa través de Canva y Genially y consistente en una tipología sin serif bold para los títulos y destacados y sin serif regular para el cuerpo de texto, así como tres colores matrices: el negro, el gris y el amarillo presentes en el siguiente pantone. 
+Para este proyecto se ha escogido un diseño sencillo realizado a través de Canva y Genially y consistente en una tipología sin serif bold para los títulos y destacados y sin serif regular para el cuerpo de texto, así como tres colores matrices: el negro, el gris y el amarillo presentes en el siguiente pantone. 
 <img width="345" alt="Captura de pantalla 2022-04-20 a las 17 03 34" src="https://user-images.githubusercontent.com/103131235/164261591-5e068534-faeb-44a9-a7e6-68b84ea39421.png">
 
 En cuanto al logo, se decidió continuar con la tipología sin serif, recurrir al color negro por motivos de legibilidad e introducir la imagen de una aguja “atravesando” las letras para plantear de forma sutil el tema que se va a tratar al mismo tiempo que se aporta dramatismo y se capta la atención del usuario. 
@@ -83,15 +82,11 @@ Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamifica
 * Redes sociales: En principio, las redes sociales del proyecto se limitarían a Twitter e Instagram por cuestiones de mantenimiento, aunque en un futuro sería interesante explorar la idea de crear una cuenta de TikTok ya que permite crear contenidos interesantes y alcanzar a parte del público objetivo del proyecto: la generación Z.  
 
 ### Etapa 3: Técnicas de evaluación utilizadas
-
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
-
-* Test con usuarios (...) 
-* ... 
+Como método de evaluación se ha escogido la realización de un test con usuarios con el objetivo de exponer los principales fallos de la aplicación, así como identificar oportunidades de mejora. 
 
 ### Conclusiones y trabajo futuro
 
-* Grado de consecución del proyecto: 
+* Grado de consecución del proyecto: El proyecto se encuentra aún en una fase inicial, se ha identificado qué se pretende comunicar y con qué   intención, pero solo se ha desarrollado el prototipo de la aplicación.  
 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): El principal problema localizado al comienzo del proyecto, es que la idea inicial de que sea el reportaje multimedia el que vertebrase la experiencia resultaba previsible, de ahí que se tratase de resolver con el hecho de que la gamificación pasase a ser la idea principal y no un mero complemento del reportaje. A continuación, en fase de prototipado sirvió para localizar otros conflictos relacionados tanto con cuestiones estilísticas, como la visibilidad del texto y la efectividad de ciertos botones, como con el medio escogido para la narración: en lugar de texto se debería introducir opciones más interactivas y visuales para no perder la atención del espectador. 
 
@@ -103,7 +98,7 @@ Referencias y recursos:
 
 * Artículos ..  
 * Productos utilizados  
-* Propuestas de me
+* Propuestas de medios
 
 (...)
 
