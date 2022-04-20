@@ -32,7 +32,7 @@ Desde 1996, la cantidad de ropa comprada en la Unión Europea por persona ha aum
 
 
 *  :octocat: (github url) 
-* La app en la que se desarrollará el proyecto.
+* La app en la que se desarrollará el proyecto en formato móvil.
 * Redes sociales como Twitter e Instagram –que servirán para captar audiencia y dar a conocer el proyecto–. 
 * Página de Wix. 
 
@@ -93,7 +93,7 @@ Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamifica
 
 * Grado de consecución del proyecto: 
 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): El principal problema localizado al comienzo del proyecto, es que la idea inicial de que sea el reportaje multimedia el que vertebrase la experiencia resultaba previsible, de ahí que se tratase de resolver con el hecho de que la gamificación pasase a ser la idea principal y no un mero complemento del reportaje. Otro conflicto localizado a continuación es la dificultad de desarrollar una gamificación efectiva sin los conocimietos de programación necesarios, de ahí que sea un proyecto factibe pero que debe desarrollarse a medio/largo plazo. 
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): El principal problema localizado al comienzo del proyecto, es que la idea inicial de que sea el reportaje multimedia el que vertebrase la experiencia resultaba previsible, de ahí que se tratase de resolver con el hecho de que la gamificación pasase a ser la idea principal y no un mero complemento del reportaje. A continuación, en fase de prototipado sirvió para localizar otros conflictos relacionados tanto con cuestiones estilísticas, como la visibilidad del texto y la efectividad de ciertos botones, como con el medio escogido para la narración: en lugar de texto se debería introducir opciones más interactivas y visuales para no perder la atención del espectador. 
 
 * Propuestas de mejora (por qué consideras que merece la pena continuar): En la gamificación sería recomendable reemplazar parte del texto por vídeos verticales de poca duración –20 segudos máximo–, infografías intectivas, imágenes que se modifiquen con la interacción del espectador e información deslizable que permita al usuario interactuar con los datos y realizar scroll para desplazarse por el texto. Es importante que el usuario pueda realizar una lectura horizontal y personalizada, de ahí que sea necesario ampliar también la narrativa –por ejemplo, añadiendo más opciones al "viaje del usuario"–. De hecho, en caso de implementar estas modificaciones en gamificación no sería necesario complementar el proyecto con reportaje multimedia.
 
