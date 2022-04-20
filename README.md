@@ -80,9 +80,7 @@ En cuanto al logo, se decidió continuar con la tipología sin serif, recurrir a
 Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamificación, como se puede observar en las siguientes imagenes. 
 <img width="1122" alt="Captura de pantalla 2022-04-20 a las 17 10 11" src="https://user-images.githubusercontent.com/103131235/164263209-e0450fce-55d0-422a-ade1-9a6657d69ecb.png">
 
-* redes sociales: En principio, las redes sociales del proyecto se limitarían a Twitter e Instagram por cuestiones de mantenimiento, aunque en un futuro sería interesante explorar la idea de crear una cuenta de TikTok ya que permite crear contenidos interesantes y alcanzar a parte del público objetivo del proyecto: la generación Z.  
-
-* publicidad: En principio no se plantea la introducción de publicidad. 
+* Redes sociales: En principio, las redes sociales del proyecto se limitarían a Twitter e Instagram por cuestiones de mantenimiento, aunque en un futuro sería interesante explorar la idea de crear una cuenta de TikTok ya que permite crear contenidos interesantes y alcanzar a parte del público objetivo del proyecto: la generación Z.  
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -93,10 +91,13 @@ Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamifica
 
 ### Conclusiones y trabajo futuro
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto: 
+
+* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ): El principal problema localizado al comienzo del proyecto, es que la idea inicial de que sea el reportaje multimedia el que vertebrase la experiencia resultaba previsible, de ahí que se tratase de resolver con el hecho de que la gamificación pasase a ser la idea principal y no un mero complemento del reportaje. Otro conflicto localizado a continuación es la dificultad de desarrollar una gamificación efectiva sin los conocimietos de programación necesarios, de ahí que sea un proyecto factibe pero que debe desarrollarse a medio/largo plazo. 
+
+* Propuestas de mejora (por qué consideras que merece la pena continuar): 
+
+* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?): Considero que el proyecto no solo necesario sino también viable –tanto en cuanto al desarrollo como a la posible rentabilidad en caso de explorar sus beneficios con respeto al mercado de la moda de segunda mano–, aunque requeriría para su inicio de una inyección de capital y de la introducción de programadores y diseñadores gráficos al equipo de desarrollo. 
 
 Referencias y recursos: 
 
