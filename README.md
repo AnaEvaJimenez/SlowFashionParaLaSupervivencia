@@ -69,7 +69,16 @@ Asimismo, se crearía cuentas oficiales en redes sociales como Twitter e Instagr
 
 Finalmente, se conseguiría la integración de los distintos medios a través de la introducción de enlaces en la propia gamificación que guíen al usuario a explorar las redes sociales o la página web. 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada:
+Para este proyecto se ha escogido un diseño sencillo realizadoa través de Canva y Genially y consistente en una tipología sin serif bold para los títulos y destacados y sin serif regular para el cuerpo de texto, así como tres colores matrices: el negro, el gris y el amarillo presentes en el siguiente pantone. 
+<img width="345" alt="Captura de pantalla 2022-04-20 a las 17 03 34" src="https://user-images.githubusercontent.com/103131235/164261591-5e068534-faeb-44a9-a7e6-68b84ea39421.png">
+
+En cuanto al logo, se decidió continuar con la tipología sin serif, recurrir al color negro por motivos de legibilidad e introducir la imagen de una aguja “atravesando” las letras para plantear de forma sutil el tema que se va a tratar al mismo tiempo que se aporta dramatismo y se capta la atención del usuario. 
+
+<img width="178" alt="Captura de pantalla 2022-04-20 a las 17 04 37" src="https://user-images.githubusercontent.com/103131235/164262600-0921c33e-ef39-4a71-86c2-0c429cc4129f.png">
+
+Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamificación, como se puede observar en las siguientes imagenes. 
+<img width="1122" alt="Captura de pantalla 2022-04-20 a las 17 10 11" src="https://user-images.githubusercontent.com/103131235/164263209-e0450fce-55d0-422a-ade1-9a6657d69ecb.png">
 
 * redes sociales (...) 
 
