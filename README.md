@@ -1,7 +1,5 @@
 ## Slow Fashion para la supervivencia 
 
-(Plantilla para la creación de un proyecto Multimedia Interactivo)
-
 Proyecto de [Creación Multimedia y Periodismo Multiplataforma](https://github.com/mgea/PeriodismoMultimedia)
 Master de Nuevos medios interactivos y periodismo multimedia
 Facultad de Comunicación y Documentación
@@ -34,10 +32,9 @@ Desde 1996, la cantidad de ropa comprada en la Unión Europea por persona ha aum
 
 
 *  :octocat: (github url) 
-* Twitter 
-* ... 
-
-
+* La app en la que se desarrollará el proyecto.
+* Redes sociales como Twitter e Instagram –que servirán para captar audiencia y dar a conocer el proyecto–. 
+* Página de Wix. 
 
 --- 
 
@@ -65,16 +62,12 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 **Estilo de narración** : La narración será directa y concisa, tratando de captar la atención de la audiencia con preguntas que interpelen al usuario. 
 
-(ejemplos/alternativas) 
-* documental interactivo 
-* videojuego 
-* ... 
-
-
-
 ### Etapa 2: Prototipar / productos 
+En la primera fase de prototipado se ha escogido la aplicación ProtoPie para desarrollar un prototipo de la gamificación que vertebra el proyecto **Slow Fashion para la supervivencia**.  El objetivo a medio/largo plazo sería poder ampliar la gamificación –por ejemplo, con la introducción de una pestaña que permita al usuario escanear las etiquetas de sus prendas para averiguar cuál es el grado de sostenibilidad del producto que ha consumido o piensa consumir– y la creación de una página web en la que se amplíe la información a través de vídeos, podcast, infografías interactivas y texto, algo que permitiría no solo profundizar en la intención del proyecto sino también alcanzar audiencias con otros hábitos de consumo.
 
-(Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
+Asimismo, se crearía cuentas oficiales en redes sociales como Twitter e Instagram para fidelizar la audiencia obtenida, dar a conocer el proyecto y alcanzar nuevos usuarios. 
+
+Finalmente, se conseguiría la integración de los distintos medios a través de la introducción de enlaces en la propia gamificación que guíen al usuario a explorar las redes sociales o la página web. 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
