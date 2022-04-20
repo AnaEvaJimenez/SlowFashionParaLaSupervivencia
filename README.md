@@ -80,11 +80,9 @@ En cuanto al logo, se decidió continuar con la tipología sin serif, recurrir a
 Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamificación, como se puede observar en las siguientes imagenes. 
 <img width="1122" alt="Captura de pantalla 2022-04-20 a las 17 10 11" src="https://user-images.githubusercontent.com/103131235/164263209-e0450fce-55d0-422a-ade1-9a6657d69ecb.png">
 
-* redes sociales (...) 
+* redes sociales: En principio, las redes sociales del proyecto se limitarían a Twitter e Instagram por cuestiones de mantenimiento, aunque en un futuro sería interesante explorar la idea de crear una cuenta de TikTok ya que permite crear contenidos interesantes y alcanzar a parte del público objetivo del proyecto: la generación Z.  
 
-* publicidad: banner (... ) 
-
-* ...
+* publicidad: En principio no se plantea la introducción de publicidad. 
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
@@ -93,18 +91,12 @@ Asimismo, se ha seguido este diseño en el proceso de prototipado de la gamifica
 * Test con usuarios (...) 
 * ... 
 
-
-
-
-
 ### Conclusiones y trabajo futuro
-
 
 * Grado de consecución del proyecto 
 * Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
-
 
 Referencias y recursos: 
 
@@ -113,10 +105,6 @@ Referencias y recursos:
 * Propuestas de me
 
 (...)
-
-
-
-
 
 
 ----
@@ -133,15 +121,3 @@ Referencias y recursos:
 * (Artículos ..  )
 * (Productos utilizados ) 
 * (Recursos tipo Imágenes, videos , etc.) 
-
-
-
-
-
-
-
-
-
-
-
-
